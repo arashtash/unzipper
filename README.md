@@ -61,6 +61,10 @@ Hello World!
 
 # Author
 Arash Tashakori (main.c)
+
+[Website and Contact information](https://arashtash.github.io/)
+
+
 Dr. Alexander Brodsky (tests and idea)
 
 # Acknowledgement
